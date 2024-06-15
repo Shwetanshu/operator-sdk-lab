@@ -1,0 +1,1 @@
+This project is an example project to create kubernetes CRD using operator-sdk
